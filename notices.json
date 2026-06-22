@@ -2,7 +2,7 @@
   "version": 1,
   "notices": [
     {
-      "id": "update_v11",
+      "id": "update_v12",
       "title": "Atualizacao disponivel",
       "body": "A v11 esta pronta com sistema de conteudo via GitHub.",
       "type": "update",
